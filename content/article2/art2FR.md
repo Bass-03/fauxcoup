@@ -4,11 +4,6 @@ Category: yeah
 Slug: my-super-post2
 Authors: Alexis Metaireau, Conan Doyle
 Summary: Short version for index and feeds
-Lang: en
+Lang: fr
 
-<<<<<<< HEAD
 Contenido en frances
-CAMBIO
-=======
-Contenido en ingles
->>>>>>> d8d18466c676f131b003ba8f9ad5befdfd4ded8e
