@@ -1,5 +1,4 @@
 output/*
-output/*.*
 __pycache__/*
 pelican.pid
 srv.pid
