@@ -6,9 +6,6 @@ Authors: Alexis Metaireau, Conan Doyle
 Summary: Short version for index and feeds
 Lang: en
 
-<<<<<<< HEAD
+
 Contenido en frances
 CAMBIO
-=======
-Contenido en ingles
->>>>>>> d8d18466c676f131b003ba8f9ad5befdfd4ded8e
